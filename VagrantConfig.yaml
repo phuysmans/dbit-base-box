@@ -8,7 +8,7 @@ project:
 db:
     host: 127.0.0.1
     port: 3306
-    name: gdb_sso
-    username: appuser
-    password: m0n1c4po
-    root_password: m0n1c4po
+    name: 
+    username: 
+    password: 
+    root_password: 
