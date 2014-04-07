@@ -1,0 +1,21 @@
+[submodule "puppet/manifests/modules/apache"]
+	path = puppet/manifests/modules/apache
+	url = git://github.com/puppetlabs/puppetlabs-apache.git
+[submodule "puppet/manifests/modules/Firewall"]
+	path = puppet/manifests/modules/Firewall
+	url = git://github.com/puppetlabs/puppetlabs-firewall.git
+[submodule "puppet/manifests/modules/mysql"]
+	path = puppet/manifests/modules/mysql
+	url = git://github.com/puppetlabs/puppetlabs-mysql.git
+[submodule "puppet/manifests/modules/php"]
+	path = puppet/manifests/modules/php
+	url = git://github.com/Mayflower/puppet-php.git
+[submodule "puppet/manifests/modules/stdlib"]
+	path = puppet/manifests/modules/stdlib
+	url = git://github.com/puppetlabs/puppetlabs-stdlib.git
+[submodule "puppet/manifests/modules/pear"]
+	path = puppet/manifests/modules/pear
+	url = git://github.com/treehouseagency/puppet-pear.git
+[submodule "puppet/manifests/modules/phpqatools"]
+	path = puppet/manifests/modules/phpqatools
+	url = git://github.com/rafaelfelix/puppet-phpqatools.git
